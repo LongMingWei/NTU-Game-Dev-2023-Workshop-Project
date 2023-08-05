@@ -3,7 +3,6 @@
 Play as Froggers, a frog with dual-wielded sniper rifles!
 
 Improvements made from trainer's game:
-
 - Player speed increases over time
 - Enemies spawn at random locations on the platforms instead of one fixed position
 - Added audio effects
