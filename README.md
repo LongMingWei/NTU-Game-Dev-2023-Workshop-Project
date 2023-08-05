@@ -1,6 +1,6 @@
 # NTU-Game-Dev-2023-Workshop-Project
 
-Play as Froggers, a frog with dual-wielded sniper rifles!
+**Play as Froggers, a frog with dual-wielded sniper rifles!**
 
 Improvements made from trainer's game:
 - Player speed increases over time
