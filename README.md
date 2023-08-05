@@ -10,3 +10,5 @@ Improvements made from trainer's game:
 - Added audio effects
 - Added ability to rotate while airborne
 - Player can now shoot with dual wielded sniper rifles with laser sights
+
+**To view the inner workings of the game, import Froggers.unitypackage into the Unity editor**
